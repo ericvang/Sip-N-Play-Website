@@ -1,5 +1,6 @@
 # SIP-N-PLAY WEBSITE
 By: Eric Vang and Madison Lin
+
 *Submission for the 2024 Codedex Summer Hackathon!*
 
 
